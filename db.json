@@ -1,12 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "2023 Layoff Tracker" },
+    { "id": 2, "title": "Solar Eclipse 2023" },
+    { "id": 3, "title": "Update Now Warning Issued To All iPhone Users" },
+   { "id": 4, "title": "Fake Reviews Still Widely Traded On Facebook" } 
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment for post 1", "postId": 1 },
+    { "id": 2, "body": "one more comment for post 1", "postId": 1 },
+    { "id": 3, "body": "some comment for post 3", "postId": 3 }
   ],
   "profile": {
     "name": "typicode"

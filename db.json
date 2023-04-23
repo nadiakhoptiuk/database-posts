@@ -1,14 +1,72 @@
 {
   "posts": [
-    { "id": 1, "title": "2023 Layoff Tracker" },
-    { "id": 2, "title": "Solar Eclipse 2023" },
-    { "id": 3, "title": "Update Now Warning Issued To All iPhone Users" },
-   { "id": 4, "title": "Fake Reviews Still Widely Traded On Facebook" } 
+    {
+"userId": 1,
+"id": 1,
+"title": "nesciunt iure omnis dolorem tempora et accusantium",
+"body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
+},
+{
+"userId": 1,
+"id": 2,
+"title": "optio molestias id quia eum",
+"body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+},
+{
+"userId": 2,
+"id": 3,
+"title": "et ea vero quia laudantium autem",
+"body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+},
+{
+"userId": 2,
+"id": 4,
+"title": "in quibusdam tempore odit est dolorem",
+"body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
+},
+{
+"userId": 2,
+"id": 5,
+"title": "dolorum ut in voluptas mollitia et saepe quo animi",
+"body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
+},
   ],
   "comments": [
-    { "id": 1, "body": "some comment for post 1", "postId": 1 },
-    { "id": 2, "body": "one more comment for post 1", "postId": 1 },
-    { "id": 3, "body": "some comment for post 3", "postId": 3 }
+    {
+"postId": 1,
+"id": 1,
+"name": "id labore ex et quam laborum",
+"email": "Eliseo@gardner.biz",
+"body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+},
+{
+"postId": 1,
+"id": 2,
+"name": "quo vero reiciendis velit similique earum",
+"email": "Jayne_Kuhic@sydney.com",
+"body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+},
+{
+"postId": 2,
+"id": 3,
+"name": "odio adipisci rerum aut animi",
+"email": "Nikita@garfield.biz",
+"body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+},
+{
+"postId": 2,
+"id": 4,
+"name": "alias odio sit",
+"email": "Lew@alysha.tv",
+"body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+},
+{
+"postId": 5,
+"id": 5,
+"name": "vero eaque aliquid doloribus et culpa",
+"email": "Hayden@althea.biz",
+"body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+}
   ],
   "profile": {
     "name": "typicode"
